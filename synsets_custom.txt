@@ -1,0 +1,4 @@
+0,Greetings,things you say
+1,hi hello,enter room say
+2,goodbye bye,leave rooms say
+3,see_you_later,type of goodbye
